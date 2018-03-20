@@ -3,7 +3,10 @@
 
 import java.util.*;
 import java.math.*;
+import java.util.Scanner;
 
 public class AdvCal {
-
+  public static void main(String[] args){
+    System.out.println("Welcome to the Advanced Calculator. This calculator will compute multiple number using multiple operands in the correct order (BIDMAS). Exponents and roots will be used.");
+  }
 }
